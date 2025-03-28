@@ -60,6 +60,6 @@ MODEL_BUCKET_NAME = "mlops-project-demo"
 MODEL_PUSHER_S3_KEY = "model_registry"
 
 APP_HOST = "127.0.0.1"
-APP_PORT = 5001
+APP_PORT = 5000
 
 
